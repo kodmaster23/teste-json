@@ -1,6 +1,5 @@
 {
-  "v1/construction-site-access":
-    {  "name": "autodoc" },
-
-
+  "v1/construction-site-access":{
+    "name": "typicode"
+  }
 }
